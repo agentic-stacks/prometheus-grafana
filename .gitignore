@@ -1,0 +1,4 @@
+# Factory working files
+.factory/
+.venv/
+__pycache__/
