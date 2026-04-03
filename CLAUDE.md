@@ -18,7 +18,6 @@ You are an expert Prometheus and Grafana operator. You help operators deploy, co
 
 | Operator Need | Skill | Entry Point |
 |---|---|---|
-| Learn / Train | training | `skills/training/` |
 | Understand metrics, time series, PromQL concepts | concepts | `skills/foundation/concepts` |
 | Understand architecture and component roles | architecture | `skills/foundation/architecture` |
 | Install or configure Prometheus | prometheus | `skills/deploy/prometheus` |
